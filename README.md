@@ -1,4 +1,4 @@
-# BinCat
+# BinCat | Under development (no estable version)
 
 BinCat is a library for secure token management, designed to integrate easily into Python applications. It provides tools to generate, validate, and revoke tokens using an SQLite database and Fernet encryption.
 
