@@ -1,3 +1,29 @@
+Metadata-Version: 2.2
+Name: bincat
+Version: 1.0.0
+Summary: Secure token management library.
+Home-page: https://github.com/eduolihez/BinCat
+Author: Eduolihez
+Author-email: youremail@example.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: cryptography>=39.0.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
 # BinCat
 
 BinCat is a library for secure token management, designed to integrate easily into Python applications. It provides tools to generate, validate, and revoke tokens using an SQLite database and Fernet encryption.
