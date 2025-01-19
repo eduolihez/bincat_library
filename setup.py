@@ -6,7 +6,7 @@ setup(
     description="Secure token management library.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    author="Eduolihez",
+    author="Edu Olivares",
     author_email="youremail@example.com",
     url="https://github.com/eduolihez/BinCat",
     license="MIT",
